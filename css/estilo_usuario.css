@@ -1,0 +1,42 @@
+body{
+	background:  #F7F0F0;
+}
+
+#autor{
+	margin-top: 50px;
+}
+.usuario{
+	background: #000;
+	color: #fff;
+	margin: 30%;
+
+}
+
+#content{
+	margin: 0 auto;
+	padding-left: 450px;
+	
+}
+#form-login{
+    right: 300px;
+	text-align: center;
+	background-color:#D7D6D6;
+	width: 300px;
+	border: 3px solid #DFDADA;
+}
+#cuerpo{
+	margin: auto;
+
+}
+
+#imagen{
+
+}
+#p1{
+	height: 40px;
+	text-align: center;
+	width: 300px;
+	background-color: #BDB7B7;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}

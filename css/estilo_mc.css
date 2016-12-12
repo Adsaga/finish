@@ -1,0 +1,45 @@
+
+div.conten{
+	width: 130px;
+	height: 180px;
+	float: left;
+  -webkit-transition:height .4s;
+  border:1px solid    #778899;
+}
+
+div#dos{
+background-color: #808080;
+}
+div#tres{
+background-color:  #A8A8A8;
+}
+div#cuatro{
+background-color:  #808080;
+}
+div#cinco{
+background-color:  #A8A8A8;
+}
+
+img.icon{
+	display: block;
+	margin:50px auto;
+background-color: rgba(255,255,255,.15);
+width: 30px;
+padding: 10px;
+-webkit-border-radius: 50%;
+-webkit-box-shadow:0px 0px 0px 30px rgba(255,255,255, 0);
+-webkit-transition: box-shadow .4s;
+}
+p.texto{
+  font-size: .5cm;
+  color: #111;
+  text-align: center;
+  padding-top: -30px;
+opacity: .6; 
+-webkit-transition:padding-top .4s;
+}
+
+
+div.conten:hover img.icon{
+  -webkit-box-shadow:0px 0px 0px 0px #111;
+}
